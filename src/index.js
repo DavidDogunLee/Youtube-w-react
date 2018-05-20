@@ -1,8 +1,8 @@
-var react = require('react');
-var ReactDOM = require('react-dom');
+import React from 'react';
+import ReactDOM from 'react-dom';
 
 const App = () => {
-  return <div> Hi </div>;
+  return <div> David Lee </div>;
 };
 
 ReactDOM.render(<App />, document.querySelector('.container'));
